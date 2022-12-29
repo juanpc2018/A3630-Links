@@ -17,7 +17,7 @@ Large CPU FastRAM is much better vs. FPU with No RAM, </br>
 A3630 does Not have RAM, that would be a must do Mod / Upgrade, based on the design of BFG9060 "A4000-Tk" RAM. </br>
 https://www.cpu-world.com/CPUs/68060/index.html </p>
 
-Having real TCXO is better. </br>
+Having Real TCXO is Better, </br>
 people can swap to other frequencies more easy.. </br>
 just swapping the TCXO. </p>
 
