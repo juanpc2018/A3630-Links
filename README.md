@@ -11,7 +11,9 @@ https://mcgeezer.itch.io/kung-fu-remaster </p>
 
 There was also LC060 and EC060, without FPU and MMU </br>
 adding support for 68881/68882 in the PCB allow those CPUs perform the same as Non LC / EC. </br>
-like 030 boards. </br>
+IF software requires those instructions, but if does Not, adding an FPU coprocessor is wasting money, </br>
+Have Not seen a list of Software that benefits from an FPU </br>
+Large CPU FastRAM is much better vs. FPU with No RAM. </br>
 https://www.cpu-world.com/CPUs/68060/index.html </p>
 
 Having real TCXO is better. </br>
