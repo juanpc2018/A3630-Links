@@ -1,14 +1,20 @@
 # A3630-Links
 
-The price and avability of a real Motorola / Freescale 68060 Rev.6 </br>
+The price and avability of a real Motorola / Freescale 68060 Rev6 CPU</br>
 is getting ridiculous, $400usd. from China or Russia for a 50MHz CPU. </p>
 
+Also 060 CPUs are Not compatible with most games designed for Amiga 500, </br>
+There were too many changes "Revisions" between Original 68k CPU and 060 Rev6. </br>
+030 CPU is closer, more compatible to the Original 68k CPU. </br>
+example: </br>
+https://mcgeezer.itch.io/kung-fu-remaster </p>
+
 There was also LC060 and EC060, without FPU and MMU </br>
-adding support for 68882 in the PCB would allow those CPUs perform the same as Non LC / EC. </br>
+adding support for 68882 in the PCB allow those CPUs perform the same as Non LC / EC. </br>
 like 030 boards. </br>
 https://www.cpu-world.com/CPUs/68060/index.html </p>
 
-Also having real TCXO is better. </br>
+Having real TCXO is better. </br>
 people can swap to other frequencies more easy.. </br>
 just swapping the TCXO. </p>
 
