@@ -1,6 +1,6 @@
 # A3630-Links
 
-The price and avability of a real Motorola / Frescale 68060 Rev.6 </br>
+The price and avability of a real Motorola / Freescale 68060 Rev.6 </br>
 is getting ridiculous, $400usd. from China or Russia for a 50MHz CPU. </p>
 
 There was also LC060 and EC060, without FPU and MMU </br>
