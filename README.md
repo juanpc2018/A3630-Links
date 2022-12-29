@@ -7,8 +7,10 @@ Also 060 CPUs are Not compatible with most games designed for Amiga 500, </br>
 There were too many changes "Revisions" between Original 68k CPU and 060 Rev6. </br>
 030 CPU is closer, more compatible to the Original 68k CPU. </br>
 example: </br>
-https://mcgeezer.itch.io/kung-fu-remaster </p>
-
+https://mcgeezer.itch.io/kung-fu-remaster </br>
+040 CPUs is where things get crazy, </br>
+closer design to 060, main difference are higher voltage 5v vs 3.3v DC in 060 </br>
+and 2x clock input in the 040 vs. 1x clock in the 060 "the 040 has an internal divider" </br>
 There was also LC060 and EC060, without FPU and MMU </br>
 adding support for 68881/68882 in the PCB allow those CPUs perform the same as Non LC / EC. </br>
 IF software requires those instructions, but if does Not, adding an FPU coprocessor is wasting money, </br>
