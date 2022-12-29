@@ -10,7 +10,7 @@ https://www.cpu-world.com/CPUs/68060/index.html </p>
 
 Also having real TCXO is better. </br>
 people can swap to other frequencies more easy.. </br>
-just swuapping the TCXO. </p>
+just swapping the TCXO. </p>
 
 Dual 14-pin dil TCXO for 060 and 68882, maybe? Jumper for Single / same? </p>
 
