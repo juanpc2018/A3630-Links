@@ -14,10 +14,12 @@ adding support for 68881/68882 in the PCB allow those CPUs perform the same as N
 IF software requires those instructions, but if does Not, adding an FPU coprocessor is wasting money, </br>
 Have Not seen a list of Software that benefits from an FPU </br>
 Large CPU FastRAM is much better vs. FPU with No RAM, </br>
-A3630 does Not have RAM, that would be a must do Mod / Upgrade, based on the design of BFG9060 "A4000-Tk" RAM. </br>
+A3630 does Not have RAM, that would be a must do Mod / Upgrade, </br>
+based on the design of BFG9060 "A4000-Tk" RAM. </br>
+To Play Quake 1,2,3,4 requires CPU Ram, ZorroRAM is Not Fast Enough. </br>
 https://www.cpu-world.com/CPUs/68060/index.html </p>
 
-Having Real TCXO is Better, </br>
+Having Real TCXO is also Better, </br>
 people can swap to other frequencies more easy.. </br>
 just swapping the TCXO. </p>
 
