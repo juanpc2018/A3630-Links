@@ -10,7 +10,7 @@ example: </br>
 https://mcgeezer.itch.io/kung-fu-remaster </p>
 
 There was also LC060 and EC060, without FPU and MMU </br>
-adding support for 68882 in the PCB allow those CPUs perform the same as Non LC / EC. </br>
+adding support for 68881/68882 in the PCB allow those CPUs perform the same as Non LC / EC. </br>
 like 030 boards. </br>
 https://www.cpu-world.com/CPUs/68060/index.html </p>
 
